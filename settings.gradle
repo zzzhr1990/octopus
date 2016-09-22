@@ -1,2 +1,5 @@
 include 'octopus-rpc-core'
 include 'octopus-rpc-server'
+include 'octopus-rpc-client'
+include 'octopus-rpc-springboot'
+

@@ -1,0 +1,24 @@
+master:
+  name: "Chat-Server-Slave"
+  serverList:
+    - port: 8964
+      ssl: false
+      address: 127.0.0.1
+      name: "Master-Local"
+
+#    - port: 8964
+#      ssl: false
+#      address: 119.90.49.11
+#      name: "Master-Beijing-11"
+#    - port: 8964
+#      ssl: false
+#      address: 119.90.49.12
+#      name: "Master-Beijing-12"
+#    - port: 8964
+#      ssl: false
+#      address: 119.90.49.13
+#      name: "Master-Beijing-13"
+#    - port: 8964
+#      ssl: false
+#      address: 119.90.49.14
+#      name: "Master-Beijing-14"
