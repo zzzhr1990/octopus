@@ -1,0 +1,7 @@
+####################Server Config######################
+
+# gRPC config
+grpc:
+  port: 8964
+  ssl: false
+  serverName: "RPC"
