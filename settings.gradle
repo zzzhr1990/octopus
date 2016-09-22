@@ -1,4 +1,2 @@
-rootProject.name = 'octopus'
-
 include 'octopus-rpc-core'
 include 'octopus-rpc-server'
