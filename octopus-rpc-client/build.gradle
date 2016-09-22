@@ -1,5 +1,4 @@
 group 'com.dingding.octopus'
-version '0.0.4'
 
 apply plugin: 'java'
 
