@@ -1,0 +1,16 @@
+group 'com.dingding.octopus'
+version '0.0.4'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project (':octopus-rpc-core')
+    compile project (':octopus-rpc-springboot')
+    testCompile group: 'junit', name: 'junit', version: '4.11'
+}
