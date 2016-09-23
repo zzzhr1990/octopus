@@ -1,5 +1,5 @@
 group 'com.dingding.octopus'
-version '0.0.5'
+version '0.0.6'
 
 apply plugin: "maven"
 apply plugin: 'maven-publish'
